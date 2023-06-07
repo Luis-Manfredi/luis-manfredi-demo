@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bfcf7d41c95af792886eb231d98ec1f5",
+  "assets/AssetManifest.json": "8fc8345734221eaf2abb75ae1fb2ae5f",
 "assets/assets/documents/Luis%2520Manfredi%2520-%2520CV%2520-%25202023.pdf": "ed956f1328ac2085c6d9e0eebea3c4e0",
 "assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/assets/fonts/Poppins-Light.ttf": "fcc40ae9a542d001971e53eaed948410",
@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/assets/images/notionapp_add.jpg": "0139aaca505bf7edeb166ba64758d5cd",
 "assets/assets/images/notionapp_database.jpg": "e5524aea855ec7f7ba126fddeb70b43f",
 "assets/assets/images/notionapp_home.jpg": "49ae5da52757ac50f4fd7091e3cd70e7",
-"assets/assets/images/profile_pic.png": "d1de6ee9ea3359944c205d1c0095d220",
+"assets/assets/images/profile_pic.jpg": "5471ac5e7d1c0877b4f25697ff248ad3",
 "assets/assets/images/tennisapp_home.jpg": "2eb870bbb06ca850553ffb57a69bdeb1",
 "assets/assets/images/tennisapp_intro.jpg": "b9a87575fbe4922dca8c8b92abdd0816",
 "assets/assets/images/tennisapp_reservations.jpg": "b502692f9c14c5881c3b4cc57d2a0742",
@@ -38,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c1f5c2f9e09e7968a493269b9cc9bf33",
-"/": "c1f5c2f9e09e7968a493269b9cc9bf33",
-"main.dart.js": "793637ee51aff312f40d1a2f66174436",
+"index.html": "2cf5bc6dfa2a7f9cefa1a67dd493f560",
+"/": "2cf5bc6dfa2a7f9cefa1a67dd493f560",
+"main.dart.js": "8398224bd9bd04b706367a5cfb15d74e",
 "manifest.json": "245e524b34d4951cfc59067fff0c027b",
 "version.json": "bbaf43e4e634cdca06460f8ad466ead3"
 };
